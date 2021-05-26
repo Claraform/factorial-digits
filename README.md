@@ -25,11 +25,12 @@ III. How To Run
     $ docker build -t factorial-digits .
     
 - To run:
+
    $ docker run --rm factorial-digits <input integer>
 
 IV. Arguments
 --------------
--<input integer>    Integer to compute factorial and digital sum on
+1.<input integer>    Integer to compute factorial and digital sum on
 
 
 V. Outputs
