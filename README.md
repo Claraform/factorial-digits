@@ -26,11 +26,11 @@ III. How To Run
     
 - To run:
 
-   $ docker run --rm factorial-digits <input integer>
+   $ docker run --rm factorial-digits $1
 
 IV. Arguments
 --------------
-1.<input integer>    Integer to compute factorial and digital sum on
+1. $1  -  Integer to compute factorial and digital sum on
 
 
 V. Outputs
