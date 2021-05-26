@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#/usr/bin/env python3
 # A program to sum the digitals of a factorial result
 
 import numpy as np
@@ -21,7 +21,7 @@ def main(f_in):
     # Sum digits of factorial result
     dig_sum = np.sum(result)
     # Display result
-    print(result)
+    print(dig_sum)
 
 if __name__ == "__main__":
     try:
